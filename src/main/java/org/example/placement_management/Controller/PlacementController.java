@@ -10,7 +10,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/placements") // Base path for Placement endpoints
 public class PlacementController {
-
+// A Placements
     @Autowired
     private PlacementService placementService;
 
