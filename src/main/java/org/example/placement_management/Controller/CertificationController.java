@@ -1,5 +1,5 @@
 package org.example.placement_management.controller;
-
+//CerController
 import org.example.placement_management.Service.CertificationService;
 import org.example.placement_management.model.Certification;
 import org.springframework.beans.factory.annotation.Autowired;
